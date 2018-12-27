@@ -1,0 +1,22 @@
+{
+  "name": "lovely-lib",
+  "version": "1.0.1",
+  "description": "个人工具箱",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yann-Liang/lib.git"
+  },
+  "keywords": [
+    "lib",
+    "tools"
+  ],
+  "author": "lovely-man",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yann-Liang/lib/issues"
+  },
+  "homepage": "https://github.com/Yann-Liang/lib#readme"
+}
