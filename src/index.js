@@ -1,5 +1,6 @@
 const changeURL = require ('./url/changeURL'),
-  getParamsByName = require ('./url/getParamsByName');
+    getParamsByName = require('./url/getParamsByName'),
+    getBrowserInfo=require('./js/getBrowserInfo');
 
 // utils
 const url = {
@@ -7,5 +8,6 @@ const url = {
   getParamsByName,
 };
 exports = {
-  url,
+    url,
+    getBrowserInfo
 };
