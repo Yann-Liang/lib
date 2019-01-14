@@ -1,6 +1,7 @@
 const changeURL = require ('./url/changeURL'),
     getParamsByName = require('./url/getParamsByName'),
-    getBrowserInfo=require('./js/getBrowserInfo');
+    getBrowserInfo = require('./js/getBrowserInfo');
+    toUnicode=require('./js/toUnicode');
 
 // utils
 const url = {
@@ -9,5 +10,6 @@ const url = {
 };
 exports = {
     url,
-    getBrowserInfo
+    getBrowserInfo,
+    toUnicode
 };
