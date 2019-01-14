@@ -8,7 +8,7 @@ const url = {
   changeURL,
   getParamsByName,
 };
-exports = {
+module.exports = {
     url,
     getBrowserInfo,
     toUnicode

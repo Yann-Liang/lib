@@ -1,6 +1,6 @@
 {
   "name": "lovely-lib",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "个人工具箱",
   "main": "index.js",
   "scripts": {

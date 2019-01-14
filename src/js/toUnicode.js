@@ -10,4 +10,4 @@ function toUnicode (str) {
   });
 }
 
-exports=toUnicode
+module.exports=toUnicode

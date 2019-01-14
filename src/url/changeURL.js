@@ -19,4 +19,4 @@ function changeURL (name, value) {
   history.pushState ({}, 0, result);
 }
 
-exports = changeURL;
+module.exports = changeURL;

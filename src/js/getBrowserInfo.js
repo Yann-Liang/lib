@@ -34,4 +34,4 @@ function getBrowserInfo() {
 }
 
 
-exports=getBrowserInfo
+module.exports=getBrowserInfo

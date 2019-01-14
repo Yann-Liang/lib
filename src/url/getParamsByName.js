@@ -7,4 +7,4 @@ function getParamsByName (name) {
     : decodeURIComponent (results[1].replace (/\+/g, ' '));
 }
 
-exports = getParameterByName;
+module.exports = getParamsByName;
